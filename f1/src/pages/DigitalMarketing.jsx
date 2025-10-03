@@ -37,11 +37,11 @@ import TestimonalImg from "/TestimonalImg.png"
 
 
 import { FaCalendarAlt, FaUser, FaArrowRight, FaArrowLeft } from "react-icons/fa";
-import RN1 from "/RN1.png";
-import RN2 from "/RN2.png";
-import RN3 from "/RN3.png";
+import RN1 from "../assets/RN1.png";
+import RN2 from "../assets/RN2.png";
+import RN3 from "../assets/RN3.png";
 
-import RBLOGS from "/RBLOGS.png"
+import RBLOGS from "../assets/RBLOGS.png"
 import worldImage from "/worldImage.png"
 import BannerImage from "../assets/BannerImage.png"
 
