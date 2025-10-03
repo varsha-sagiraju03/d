@@ -11,18 +11,18 @@ import {
 } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import "./Footer.css";
-import USAF from "../assets/USAF.png"
-import AustraliaF from "../assets/AustraliaF.png"
-import UKF from "../assets/UKF.png"
-import GermanyF from "../assets/GermanyF.png"
-import CanadaF from "../assets/CanadaF.png"
-import SriLankaL from "../assets/SriLankaL.png"
-import India from "../assets/India.png"
-import IndonesiaL from "../assets/IndonesiaL.png"
-import AustraliaL from "../assets/AustraliaL.png"
-import Nepal from "../assets/Nepal.png"
-import Ship from "../assets/Ship.png"
-import Charminar from "../assets/Charminar.png"
+import USAF from "/USAF.png"
+import AustraliaF from "/AustraliaF.png"
+import UKF from "/UKF.png"
+import GermanyF from "/GermanyF.png"
+import CanadaF from "/CanadaF.png"
+import SriLankaL from "/SriLankaL.png"
+import India from "/India.png"
+import IndonesiaL from "/IndonesiaL.png"
+import AustraliaL from "/AustraliaL.png"
+import Nepal from "/Nepal.png"
+import Ship from "/Ship.png"
+import Charminar from "/Charminar.png"
 
 
 function Footer() {

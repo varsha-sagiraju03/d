@@ -3,47 +3,47 @@ import React, { useEffect,useRef , useState } from "react";
 
 import { Container, Row, Col, Button, Card, Image ,Carousel,Modal,Form} from "react-bootstrap";
 import "./Home.css";
-import Imm from "../assets/Imm.png"
+import Imm from "/Imm.png"
 import HeroBanner from "../assets/HeroBanner.svg";
 import Countries from "../assets/Countries.png";
-import XgsBanner3 from "../assets/XgsBanner3.png";
-import XgsBanner4 from "../assets/XgsBanner4.png";
+import XgsBanner3 from "/XgsBanner3.png";
+import XgsBanner4 from "/XgsBanner4.png";
 import GradImg from "../assets/GradImg.png";
-import Books from "../assets/Books.png";
-import Presentation from "../assets/Presentation.png";
-import Family from "../assets/Family.png";
-import YearsLogo from "../assets/YearsLogo.png";
+import Books from "/Books.png";
+import Presentation from "/Presentation.png";
+import Family from "/Family.png";
+import YearsLogo from "/YearsLogo.png";
 import Uk from "../assets/UK.png";
-import USA from "../assets/USA.png";
-import Australia from "../assets/Australia.png";
-import Canada from "../assets/Canada.png";
-import Germany from "../assets/Germany.png";
+import USA from "/USA.png";
+import Australia from "/Australia.png";
+import Canada from "/Canada.png";
+import Germany from "/Germany.png";
 import { useInView } from "react-intersection-observer"; 
 import XgsLogo1 from "../assets/XgsLogo1.png";
 import CountSideImg from "../assets/CountSideImg.png";
-import TRA4 from "../assets/TRA4.png";
-import Educ from "../assets/Educ.png";
-import HASINDU from "../assets/HASINDU.png";
+import TRA4 from "/TRA4.png";
+import Educ from "/Educ.png";
+import HASINDU from "/HASINDU.png";
 import { Link } from 'react-router-dom';
 
 import { motion } from "framer-motion";
-import IELTS from "../assets/IELTS.png";
-import Pearson from "../assets/Pearson.png";
-import GRE from "../assets/GRE.png";
-import Arrow from "../assets/Arrow.png";
+import IELTS from "/IELTS.png";
+import Pearson from "/Pearson.png";
+import GRE from "/GRE.png";
+import Arrow from "/Arrow.png";
 
 import { FaQuoteLeft } from "react-icons/fa";
 import { FiChevronLeft, FiChevronRight } from "react-icons/fi";
-import TestimonalImg from "../assets/TestimonalImg.png"
+import TestimonalImg from "/TestimonalImg.png"
 
 
 import { FaCalendarAlt, FaUser, FaArrowRight, FaArrowLeft } from "react-icons/fa";
-import RN1 from "../assets/RN1.png";
-import RN2 from "../assets/RN2.png";
-import RN3 from "../assets/RN3.png";
+import RN1 from "/RN1.png";
+import RN2 from "/RN2.png";
+import RN3 from "/RN3.png";
 
-import RBLOGS from "../assets/RBLOGS.png"
-import worldImage from "../assets/worldImage.png"
+import RBLOGS from "/RBLOGS.png"
+import worldImage from "/worldImage.png"
 import BannerImage from "../assets/BannerImage.png"
 
 

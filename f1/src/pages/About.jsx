@@ -1,9 +1,9 @@
 import React from "react";
 import { Container, Row, Col, Image } from "react-bootstrap"; // ✅ Import from react-bootstrap
-import YearsLogo from "../assets/YearsLogo.png";
-import Books from "../assets/Books.png";
-import Family from "../assets/Family.png";
-import Presentation from "../assets/Presentation.png"; // ✅ Missing import
+import YearsLogo from "/YearsLogo.png";
+import Books from "/Books.png";
+import Family from "/Family.png";
+import Presentation from "/Presentation.png"; // ✅ Missing import
 
 const About = () => {
   return (

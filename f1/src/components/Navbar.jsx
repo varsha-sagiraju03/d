@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Nav, Navbar, Button, Image, NavDropdown } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-import XgsLogo5 from "../assets/XgsLogo5.png";
+import XgsLogo5 from "/XgsLogo5.png";
 
 const CustomNavbar = () => {
   const [expanded, setExpanded] = useState(false);
