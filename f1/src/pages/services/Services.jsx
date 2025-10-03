@@ -5,9 +5,12 @@ import { Link } from "react-router-dom";  // <-- add this
 
 import parse from "html-react-parser";
 
-import Educ from "../../assets/educ.png";
-import Imm from "../../assets/imm.png";
-import TRA4 from "../../assets/tra4.png";
+// import Educ from "../../assets/educ.png";
+// import Imm from "../../assets/imm.png";
+// import TRA4 from "../../assets/tra4.png";
+import Educ from "/educ.png";
+import Imm from "/imm.png";
+import TRA4 from "/tra4.png";
 
 const iconMap = {
   Educ,
